@@ -1,0 +1,35 @@
+body{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+
+}
+   
+.main-heading{
+    color:white;
+    text-align: center;
+    padding:20px;
+    background-color: #323f4b;
+}
+
+
+
+.box1{
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    text-align:right;
+    padding:10px;
+    margin-left:25px;
+    margin-right:25px;
+    margin-top:20px;
+}
+.box2{
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    text-align:left;
+    padding:10px;
+    margin-left:25px;
+    margin-right:25px;
+    margin-top:20px;
+}
+
